@@ -1,0 +1,19 @@
+.product {
+    display: flex;
+    border-bottom: 1px solid gray;
+}
+
+.product-right {
+    padding: 15px;
+}
+
+.addToCartBtn {
+    padding: 6px 15px;
+    background-color: orange;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    margin-top: 10px;
+}
